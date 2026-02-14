@@ -97,7 +97,7 @@ FAUCET_URL=http://localhost:8080
 Enable logs for user applications:
 
 ```bash
-export LINERA_APPLICATION_LOGS=true
+export LINERA_APPLICATION_LOGS=jack
 ```
 
 Set the path of the future wallet:
@@ -151,7 +151,8 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+3. Commit your changes (docs: small README update
+)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
