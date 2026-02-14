@@ -151,7 +151,7 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (docs: small README update
+3. Commit your changes (docs: first commit test
 )
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
